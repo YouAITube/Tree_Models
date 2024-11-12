@@ -10,3 +10,7 @@ https://youtube.com/shorts/RPnmFPZqmPA?feature=share
 # Bagging Works: Reducing Variance with Bootstrap Aggregation
 
 https://youtube.com/shorts/6KbCssCT8jA?feature=share
+
+# Random Forest
+
+https://youtube.com/shorts/v8Cy727Gi4M?feature=share
